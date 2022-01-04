@@ -1,0 +1,8 @@
+{
+  "user": {
+      "name":"Joyce Antony","email":"antony_joyce@gmail.com",
+      "userProfile": {
+          "address":"Bangalore","birthOfDate":"1992-06-05","gender":"FEMALE","phoneNumber":"1234567890"
+        }
+    }
+}

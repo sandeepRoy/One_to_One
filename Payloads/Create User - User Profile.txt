@@ -1,0 +1,10 @@
+{
+    "name": "Komal Jaiswal",
+    "email": "komal_jaiswal@gmail.com",
+    "userProfile" : {
+        "phoneNumber": "1223344550",
+        "address": "Bangalore",
+        "gender": "FEMALE",
+        "birthOfDate": "1991-10-11"
+    }
+}
