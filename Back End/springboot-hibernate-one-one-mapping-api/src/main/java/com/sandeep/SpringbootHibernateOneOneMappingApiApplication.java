@@ -8,4 +8,5 @@ public class SpringbootHibernateOneOneMappingApiApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootHibernateOneOneMappingApiApplication.class, args);
 	}
+	//Start from here
 }
